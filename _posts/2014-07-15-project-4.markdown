@@ -2,6 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
+title: Food!
 img: food.png
 alt: Food
 description: I LOVE FOOD! My favorite food is probably <a href="https://en.wikipedia.org/wiki/Biryani">Biryani</a> - it's an aromatic preparation of long grained rice layered with meat and spices. I've just started cooking, and am really enjoying it so far! I love cooking - with the sole motivation for it being that I get to eat what I make! I haven't made biryani yet, but that's on my list to make soon. I also have a major sweet tooth and love deserts and icecream - I once made Cherry <a href="https://en.wikipedia.org/wiki/Clafoutis">Clafoutis</a> and was surprised with how nicely it turned out! 

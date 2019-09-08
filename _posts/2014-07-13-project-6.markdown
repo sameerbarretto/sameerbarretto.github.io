@@ -2,6 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
+title: Photos
 img: gallery.png
 alt: Photo Gallery
 description: The gallery is still under construction! 

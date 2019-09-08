@@ -3,6 +3,7 @@ layout: default
 modal-id: Sports
 date: 2014-07-14
 img: sports.png
+title: Sports
 alt: Sports
 description: I've always been sportive in some way or the other, I love playing soccer and this summer, I started running! I hope to one day run a half marathon but doubt that my lung capacity will permit that - my best so far is 8km/5mi. I've also been riding horses since I was 8! I grew up next to the racecourse in Chennai, India and have been facsinated by the majesty of the animals. I learned how to ride on unruly retired race horses and woke up at 5am everyday, 6 days a week to hop across the wall and go for my lesson. 
 ---
