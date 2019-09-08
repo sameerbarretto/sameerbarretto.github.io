@@ -7,6 +7,7 @@ alt: Programming
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: I love to code - mostly because of the cool stuff that you can do, and the ability to take ideas you have in your head and make them into something real, all with just a laptop and an internet connection! I do most of my coding in C and C++ as a part of my classes, but during my internship this summer, I got a fair bit of exposure to Python as well as front end web development and AWS. <br>
+I'm currently working on a few side projects, one is a birthday reminder node.js application sends me texts of my contact's birthdays. The other is a personal to-do list inspired by Jira and the agile methodolody! They are not very well documented, but both are on my <a href="https://github.com/sameerbarretto/">GitHub!</a>
 
 ---

@@ -4,9 +4,6 @@ modal-id: 4
 date: 2014-07-15
 img: food.png
 alt: Food
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: I LOVE FOOD! My favorite food is probably <a href="https://en.wikipedia.org/wiki/Biryani">Biryani</a> - it's an aromatic preparation of long grained rice layered with meat and spices. I've just started cooking, and am really enjoying it so far! I love cooking - with the sole motivation for it being that I get to eat what I make! I haven't made biryani yet, but that's on my list to make soon. I also have a major sweet tooth and love deserts and icecream - I once made Cherry <a href="https://en.wikipedia.org/wiki/Clafoutis">Clafoutis</a> and was surprised with how nicely it turned out! 
 
 ---
