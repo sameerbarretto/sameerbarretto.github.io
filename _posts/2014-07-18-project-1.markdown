@@ -3,7 +3,5 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 img: resume.png
-description: I love to code - mostly because of the cool stuff that you can do, and the ability to take ideas you have in your head and make them into something real, all with just a laptop and an internet connection! I do most of my coding in C and C++ as a part of my classes, but during my internship this summer, I got a fair bit of exposure to Python as well as front end web development and AWS.
-
-I'm currently working on a few side projects, one of which is a birthday reminder node.js application sends me texts of my contact's birthdays. The other is a personal to-do list inspired by Jira and the agile methodolody! They are not very well documented, but both are on my <a href="https://github.com/sameerbarretto/">GitHub!</a>
+description: I love to code - mostly because of the cool stuff that you can do, and the ability to take ideas you have in your head and make them into something real, all with just a laptop and an internet connection! I do most of my coding in C and C++ as a part of my classes, but during my internship this summer, I got a fair bit of exposure to Python as well as front end web development and AWS. I'm currently working on a few side projects, one of which is a birthday reminder node.js application sends me texts of my contact's birthdays. The other is a personal to-do list inspired by Jira and the agile methodolody! They are not very well documented, but both are on my <a href="https://github.com/sameerbarretto/">GitHub!</a>
 ---

@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: coding.png
+img: resume.png
 alt: Resume
 description: Check out my <a href="">Resume!</a> (it'll be up here soon!)
 ---
