@@ -5,6 +5,5 @@ modal-id: 3
 date: 2014-07-16
 img: umich.png
 alt: University of Michigan
-description: At the University of Michigan, 
-
+description: At the University of Michigan, I'm involved in the University's oldest and largest entrepreneurship organization - <a href="https://mpowered.umich.edu/">MPowered Entrepreneruship</a> where I am the Vice President of Consulting. We provide students at the University an opportunity to work directly with startups and complete projects in weekly sprints, actively interacting with CEOs and learning about the start up ecosystem, while gaining tangible skills and working on projects that have a direct impact on the companies. <br>I am also an undergraduate researcher, working on a project that looks at how to best incorporate computation into the undergraduate physics curriculum. This summer, I travelled to Provo, Utah to present a poster on my work for the last one and a half years. I also co-authored a paper with my mentor, Dr. Thomas Finzell which we have submitted to <a href="https://www.compadre.org/per/perc/">PERC</a> for review. 
 ---
