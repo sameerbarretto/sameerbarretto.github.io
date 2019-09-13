@@ -6,6 +6,4 @@ title: Animals!
 img: animals.png
 alt: Animals
 description: I LOVE animals! Apart from riding horses my whole life, I have a dog - a beautiful himalayan Bhutia named Tashi. She's 10 this year and is the love of my life! I've also been involved with the <a href="https://bluecrossofindia.org">Blue Cross of India</a>, based in Chennai, as a part of their rescue team. We were the sole rescue team operating during the infamous Chennai Floods in 2015 with the goal of rescuing and providing for the welfare of animals.
-
 ---
-<a href=""></a>
