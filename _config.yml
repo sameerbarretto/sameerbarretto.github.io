@@ -57,7 +57,7 @@ address:
   - line: Chennai, TN, India
 
 # Credits content
-credits: 'Template by <a href="http://startbootstrap.com">Freelancer</a> and icons by <a href="https://www.flaticon.com/authors/freepik">Freepik</a> on <a href="https://www.flaticon.com/">Flaticon</a>
+credits: 'Template by <a href="http://startbootstrap.com">Freelancer</a> and icons by <a href="https://www.flaticon.com/authors/freepik">Freepik</a> on <a href="https://www.flaticon.com/">Flaticon</a>'
 
 # Build settings
 markdown: kramdown
