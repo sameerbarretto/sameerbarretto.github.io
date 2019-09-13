@@ -8,7 +8,7 @@ skills: "Computer Science at the University of Michigan"
 meta_author: Barretto Sameer
 
 # Google webmaster tools
-google_verify:
+google_verify: google-site-verification=qHAXUGhTS8iBoHkp3jrobzIAfmzwhg2E0WVLYmzXGSE
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
