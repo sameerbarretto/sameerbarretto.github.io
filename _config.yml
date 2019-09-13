@@ -57,7 +57,7 @@ address:
   - line: Chennai, TN, India
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Template by <a href="http://startbootstrap.com">Freelancer</a>.' and icons by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik on Flaticon</a> from <a href="https://www.flaticon.com/">Flaticon</a>
 
 # Build settings
 markdown: kramdown

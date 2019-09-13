@@ -5,5 +5,5 @@ modal-id: 2
 date: 2014-07-17
 img: resume.png
 alt: Resume
-description: Check out my <a href="">Resume!</a> (it'll be up here soon!)
+description: Check out my <a href="https://drive.google.com/file/d/1dfENjdjeMiy8Twz3xeBa9swj8nDZL3yI/view?usp=sharing">Resume!</a> 
 ---
